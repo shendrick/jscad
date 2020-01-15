@@ -3,6 +3,8 @@
 // license: MIT License
 // description: testing solidFromSlices()
 
+// load through github: https://openjscad.org/#https://raw.githubusercontent.com/shendrick/jscad/master/test.jscad
+
 function main(params) {
   var sqrt3 = Math.sqrt(3) / 2;
   var radius = 10;
